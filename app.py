@@ -8,7 +8,7 @@ from utils import *
 
 
 def main():
-    # page info setup
+    
     menu_items = {
         'Get help':'https://www.linkedin.com/in/oluwaseyi-gbadamosi-41015216b/' ,
         'Report a bug': 'https://www.linkedin.com/in/oluwaseyi-gbadamosi-41015216b/',
